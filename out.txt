@@ -1,0 +1,12 @@
+RA 30/2013 Igor Mandic
+file	sum
+video-0.avi	74
+video-1.avi	73
+video-2.avi	78
+video-3.avi	102
+video-4.avi	122
+video-5.avi	75
+video-6.avi	96
+video-7.avi	64
+video-8.avi	112
+video-9.avi	84
